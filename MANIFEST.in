@@ -1,0 +1,7 @@
+include mol3d_dash/mol3d_dash.min.js
+include mol3d_dash/mol3d_dash.min.js.map
+include mol3d_dash/metadata.json
+include mol3d_dash/package-info.json
+include README.md
+include LICENSE
+include package.json

@@ -1,0 +1,15 @@
+Package: mol3dDash
+Title: Project Description
+Version: 0.0.1
+Description: Project Description
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: GPL-3.0 + file LICENSE
+URL: https://github.com/stsouko/mol3d-dash
+BugReports: https://github.com/stsouko/mol3d-dash/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
+Author: Ramil Nugmanov [aut]
+Maintainer: Ramil Nugmanov <nougmanoff@protonmail.com>
