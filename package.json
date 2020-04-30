@@ -24,7 +24,7 @@
   "author": "Ramil Nugmanov <nougmanoff@protonmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "molecule-3d-for-react": "^0.4.5",
     "ramda": "^0.26.1"
   },
